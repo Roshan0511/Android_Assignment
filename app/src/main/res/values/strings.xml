@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_1_2"><b>1</b>/2</string>
+    <string name="_2_2"><b>2</b>/2</string>
+    <string name="basic_details">Basic Details</string>
+    <string name="feel_free_to_fill_your_data">Feel free to fill your data</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email_id">Email ID</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="others">Others</string>
+    <string name="female">Female</string>
+    <string name="address">Address</string>
+    <string name="list_of_data">List of data</string>
+</resources>
